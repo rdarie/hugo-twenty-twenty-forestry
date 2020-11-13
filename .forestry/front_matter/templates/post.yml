@@ -24,5 +24,3 @@ fields:
   name: description
   label: description
   description: Meta description
-pages:
-- content/blog/a-blog-post-about-how-much-radu-loves-claudia.md
